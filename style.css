@@ -29,7 +29,7 @@ ul li{
 .header img{
 	width: 20%;
 	height: 10%;
-	margin: 7% 5%;
+	margin:  5%;
 }
 .main img{
 	width: 80%;
@@ -46,19 +46,19 @@ h3{
 }
 p{
 	text-align: center;
-	padding: 6%;
+	padding: 4%;
 	padding-top: 2%;
 	line-height: 1.9rem;
 	font-size: 1.2rem;
 }
 button{
-	width: 55%;
+	width: 65%;
 	height: 55px;
 	align-content: center;
 	background-color: hsl(198, 60%, 50%);
 	border-radius: 25px;
 	border: none;
-	margin: 0 22.5%;
+	margin: 0 17.5%;
 	font-size: 1.2rem;
 	font-weight: 700;
 }
